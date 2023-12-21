@@ -1,6 +1,9 @@
+#include "addition.h"
+#include "subtract.h"
+#include "multiply.h"
+#include "division.h"
+#include "modulus.h" 
 #include <stdio.h>
-#include "operations.h"
-
 int main() {
     int a = 10, b = 5;
 
