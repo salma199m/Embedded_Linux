@@ -1,0 +1,8 @@
+/home/salma/Embedded_Linux/Calc_Project/build/CMakeFiles/static_lib.dir
+/home/salma/Embedded_Linux/Calc_Project/build/CMakeFiles/shared_lib.dir
+/home/salma/Embedded_Linux/Calc_Project/build/CMakeFiles/edit_cache.dir
+/home/salma/Embedded_Linux/Calc_Project/build/CMakeFiles/rebuild_cache.dir
+/home/salma/Embedded_Linux/Calc_Project/build/library/CMakeFiles/operation_static.dir
+/home/salma/Embedded_Linux/Calc_Project/build/library/CMakeFiles/operation_shared.dir
+/home/salma/Embedded_Linux/Calc_Project/build/library/CMakeFiles/edit_cache.dir
+/home/salma/Embedded_Linux/Calc_Project/build/library/CMakeFiles/rebuild_cache.dir

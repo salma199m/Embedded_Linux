@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/shared_lib.dir/app.c.o -o shared_lib  -Wl,-rpath,/home/salma/Embedded_Linux/Calc_Project/build/library library/liboperation_shared.so 

@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/static_lib.dir/app.c.o -o static_lib  library/liboperation_static.a 
